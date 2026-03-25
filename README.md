@@ -21,9 +21,6 @@ Backend-разработчик | Студент 2 курса колледжа «
 ## Контакты и ссылки
 - Telegram: [@eewoni](https://t.me/eewoni)  
 - Email: delovoygrach@gmail.com  
-- LeetCode: [Ссылка на профиль](https://leetcode.com/)  
-- Codewars: [Ссылка на профиль](https://www.codewars.com/)  
-
 ---
 
 
@@ -31,7 +28,7 @@ Backend-разработчик | Студент 2 курса колледжа «
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Wivvexx?theme=dark&font=Karla&ext=activity)
 
 ### Codewars
-[![Codewars](https://www.codewars.com/users/YOUR_CODEWARS_USERNAME/badges/large)](https://www.codewars.com/users/Wivvex)
+[![Codewars](https://www.codewars.com/users/Wivvex/badges)
 
 ---
 
