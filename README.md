@@ -1,52 +1,52 @@
 # 👋 Привет, я Айвазян Грачья
 
-💻 Backend‑разработчик | Студент 2 курса колледжа «Академия ТОП»  
-🚀 Люблю чистый код, REST API, алгоритмы и развитие в IT | 🌱 Python, C++, ML  
+💻 Backend-разработчик | Студент 2 курса колледжа «Академия ТОП»  
+🚀 Люблю чистый код, REST API, алгоритмы | 🌱 Python, C++, ML  
 
 ---
 
 ## 🛠️ Технологии и инструменты
-![Python](https://img.shields.io/badge/-Python-000?&logo=python&style=for-the-badge)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi&style=for-the-badge)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?&logo=sqlalchemy&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker&style=for-the-badge)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis&style=for-the-badge)
-![Alembic](https://img.shields.io/badge/-Alembic-000?&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-FFD700?&logo=python&style=for-the-badge&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-1E90FF?&logo=c%2b%2b&style=for-the-badge&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-00FF7F?&logo=fastapi&style=for-the-badge&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-DA70D6?&logo=sqlalchemy&style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-00CED1?&logo=docker&style=for-the-badge&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-FF4500?&logo=redis&style=for-the-badge&logoColor=white)
+![Alembic](https://img.shields.io/badge/-Alembic-ADFF2F?&style=for-the-badge&logoColor=white)
 
-REST API | Clean Architecture | SOLID | Алгоритмы | Машинное обучение
-
----
-
-## 📊 ⚙️ Статистика и динамические карточки
-
-### 📈 Мой GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eewoni&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eewoni&layout=compact&theme=radical&hide_border=true)
-
-### 🧠 LeetCode Статистика  
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark)  
-<!-- Заменить `YOUR_LEETCODE_USERNAME` на твой ник LeetCode | автоматически обновляется → данные берутся с сервиса динамических карточек :contentReference[oaicite:0]{index=0} -->
-
-### ⚔️ Codewars Достижения  
-[![Codewars](https://www.codewars.com/users/YOUR_CODEWARS_USERNAME/badges/large)](https://www.codewars.com/users/YOUR_CODEWARS_USERNAME)  
-<!-- Заменить `YOUR_CODEWARS_USERNAME` на твой ник Codewars → отображает бейджи и уровень автоматически :contentReference[oaicite:1]{index=1} -->
+REST API | Clean Architecture | SOLID | Алгоритмы | Машинное обучение  
 
 ---
 
-## 🚀 Проекты
-| Название | Описание |
-|----------|----------|
+## 📊 Статистика и динамические карточки
+
+### 📈 GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eewoni&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=ff00ff)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eewoni&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ffcc)
+
+### 🧠 LeetCode
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Wivvexx&theme=dark)  
+<!-- Заменить YOUR_LEETCODE_USERNAME на твой ник -->
+
+### ⚔️ Codewars
+[![Codewars](https://www.codewars.com/users/Wivvex/badges/large)](https://www.codewars.com/users/YOUR_CODEWARS_USERNAME)  
+<!-- Заменить YOUR_CODEWARS_USERNAME на твой ник -->
+
+---
+
+## 🚀 Мои проекты
+| Проект | Описание |
+|--------|----------|
 | 🅿️ **Parking** | Система управления парковкой |
 | 🍔 **Доставка еды** | Клиентская часть сервиса доставки еды |
 
 ---
 
-## 📫 Контакты и ссылки
-[![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=telegram&style=for-the-badge)](https://t.me/eewoni)  
+## 🌐 Контакты и ссылки
+[![Telegram](https://img.shields.io/badge/-Telegram-00FFCC?&logo=telegram&style=for-the-badge&logoColor=white)](https://t.me/eewoni)  
 📧 delovoygrach@gmail.com  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-000?&logo=leetcode&style=for-the-badge)](https://leetcode.com/)  
-[![Codewars](https://img.shields.io/badge/-Codewars-000?&logo=codewars&style=for-the-badge)](https://www.codewars.com/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FF1493?&logo=leetcode&style=for-the-badge&logoColor=white)](https://leetcode.com/)  
+[![Codewars](https://img.shields.io/badge/-Codewars-00FFFF?&logo=codewars&style=for-the-badge&logoColor=white)](https://www.codewars.com/)
 
 ---
 
