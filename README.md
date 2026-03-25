@@ -28,7 +28,7 @@ Backend-разработчик | Студент 2 курса колледжа «
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Wivvexx?theme=dark&font=Karla&ext=activity)
 
 ### Codewars
-[![Codewars](https://www.codewars.com/users/Wivvex/badges)
+[![Codewars](https://www.codewars.com/users/Wivvex/badges/large)
 
 ---
 
